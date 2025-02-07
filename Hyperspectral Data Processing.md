@@ -18,7 +18,9 @@ La **reducción de la dimensionalidad (RD)** se ha utilizado en la explotación 
 
 <li><strong>DR por selección de banda (DRBS)</strong> busca un subconjunto de bandas que represente los datos originales, de modo que la información de interés de los datos pueda conservarse en el subconjunto de bandas seleccionado. Curiosamente, como se verá, la mayoría de los criterios diseñados para la DRT también son aplicables a la DRBS.</li>
 </ol>
+
 ## Análisis de componentes
+
 ### 1. Análisis de Componentes Principales (PCA)
 
 PCA es una técnica estadística que transforma los datos en un nuevo sistema de coordenadas donde las variables (componentes principales) están ordenadas según la cantidad de varianza que existe en los datos. Su objetivo principal es la reducción de dimensionalidad, eliminando redundancias y manteniendo la mayor cantidad de información posible. PCA se basa en la matriz de covarianza de los datos sin necesidad de conocer la distribución de probabilidad.
